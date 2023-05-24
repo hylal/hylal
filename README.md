@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hylal
 - 👀 I’m interested in Wordpress
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning everything
 
 
 <!---
