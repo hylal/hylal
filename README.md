@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  Hilaludin Wahid — Digital Marketer & WordPress Lover 
+Digital Marketer & WordPress Lover 
 </p>
 
 <h1 align="center">Hi, I'm Hilaludin Wahid 👋</h1>
