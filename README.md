@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="banner.png" alt="Hilaludin Wahid — Digital Marketer & WordPress Lover" width="100%" />
+  Hilaludin Wahid — Digital Marketer & WordPress Lover 
 </p>
 
 <h1 align="center">Hi, I'm Hilaludin Wahid 👋</h1>
