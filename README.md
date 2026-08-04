@@ -1,116 +1,182 @@
-<!-- ================= DYNAMIC HEADER BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E56B10&height=250&section=header&text=Hilaludin%20Wahid&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Digital%20Marketer%20%26%20WordPress%20Enthusiast&descSize=22&descAlignY=75" width="100%" alt="Header Banner" />
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6E9C&center=true&vCenter=true&width=700&lines=Digital+Marketer+%F0%9F%93%88;WordPress+Enthusiast+%F0%9F%92%BB;Founder+of+Wahid+Media+Perkasa+%F0%9F%9A%80;Creator+of+HawaiColor+%F0%9F%8E%A8" alt="Typing SVG" />
-</p>
+<!--                  HILALUDIN WAHID                      -->
 
-<p align="center">
-  <a href="https://github.com/hylal">
-    <img src="https://komarev.com/ghpvc/?username=hylal&style=for-the-badge&color=E56B10" alt="Profile views" />
-  </a>
-  <a href="https://github.com/hylal?tab=followers">
-    <img src="https://img.shields.io/github/followers/hylal?style=for-the-badge&color=845EC2&label=Followers" alt="Followers" />
-  </a>
-  <a href="https://wahanadigital.com">
-    <img src="https://img.shields.io/badge/Location-Jakarta,%20Indonesia-00C9A7?style=for-the-badge" alt="Location" />
-  </a>
-</p>
+<!--             GitHub Profile README                    -->
 
----
+<!-- ===================================================== -->
 
-## 🙋‍♂️ Tentang Saya
+<div align="center">
 
-Seorang **Digital Marketer** dan pengembang web yang antusias dengan otomatisasi. Saya fokus membangun solusi yang menjembatani antara pemasaran digital yang efektif dan teknologi web yang efisien.
+# Hi, I'm Hilaludin Wahid 👋
 
-*   🚀 **Founder** di **Wahid Media Perkasa** — [wahanadigital.com](https://wahanadigital.com)
-*   💻 **Fokus Saat Ini:** Digital Marketing, WordPress Development, dan Web Automation.
-*   🎨 **Karya Original:** Pencipta **HawaiColor** (Generator Hex Palette untuk Web Designer).
-*   🤖 **Eksperimen:** Mengembangkan solusi *WhatsApp Automation* & Chatbot.
-*   ☕ **Bahan Bakar:** Ditenagai oleh kopi, kopi, dan lebih banyak kopi.
+### Digital Marketer · WordPress Enthusiast · Automation Builder
 
----
+Saya menggabungkan strategi digital, pengembangan website, dan automation
+untuk menciptakan solusi yang **efektif, terukur, dan mudah digunakan**.
 
-## 🛠️ Tech Stack & Tools
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,astro,mysql,nodejs,git,github,figma,postman&perline=12" alt="Tech Stack" />
-</p>
+[![Website](https://img.shields.io/badge/Website-Wahana%20Digital-E56B10?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://wahanadigital.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hylal-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hylal)
+[![Twitter](https://img.shields.io/badge/Twitter-@hilaludinwahid-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/hilaludinwahid)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hylal\&style=flat-square\&color=E56B10\&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/hylal?style=flat-square\&color=845EC2\&label=Followers)
+![Location](https://img.shields.io/badge/Jakarta-Indonesia-00A98F?style=flat-square\&logo=googlemaps\&logoColor=white)
+
+</div>
 
 ---
 
-## 🎨 My Signature Palette (HawaiColor)
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-E56B10-E56B10?style=for-the-badge&labelColor=E56B10" alt="#E56B10" />
-  <img src="https://img.shields.io/badge/-845EC2-845EC2?style=for-the-badge&labelColor=845EC2" alt="#845EC2" />
-  <img src="https://img.shields.io/badge/-FF6E9C-FF6E9C?style=for-the-badge&labelColor=FF6E9C" alt="#FF6E9C" />
-  <img src="https://img.shields.io/badge/-00C9A7-00C9A7?style=for-the-badge&labelColor=00C9A7" alt="#00C9A7" />
-  <img src="https://img.shields.io/badge/-FFC75F-FFC75F?style=for-the-badge&labelColor=FFC75F" alt="#FFC75F" />
-</p>
+Saya adalah seorang **Digital Marketer dan WordPress Enthusiast** yang tertarik pada pengembangan solusi digital, marketing automation, dan pengalaman pengguna.
+
+* 🚀 Founder **Wahid Media Perkasa**
+* 🌐 Mengembangkan website melalui **Wahana Digital**
+* 🎨 Creator **HawaiColor**, generator palet warna untuk web designer
+* 🤖 Membangun WhatsApp automation dan chatbot
+* 📈 Menyukai digital marketing berbasis data dan performa
+* 💻 Aktif mengeksplorasi WordPress, PHP, JavaScript, dan web automation
+* ☕ Produktivitas didukung oleh kopi dalam jumlah yang tidak sedikit
+
+---
+
+## 🎯 What I Do
+
+|   Digital Marketing   |    Website Development   |      Automation     |
+| :-------------------: | :----------------------: | :-----------------: |
+|   Campaign Strategy   |   WordPress Development  | WhatsApp Automation |
+| Performance Marketing | Landing Page Development | Chatbot Integration |
+|    SEO & Analytics    |     WooCommerce Setup    | Workflow Automation |
+| Social Media Strategy |   Website Optimization   |   API Integration   |
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hylal/hawaicolor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hylal&repo=hawaicolor&bg_color=0d1117&title_color=E56B10&icon_color=FF6E9C&text_color=9fb3c8&border_color=30363d&border_radius=10" alt="HawaiColor" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hylal/whatsapp-rotator-shortcode">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hylal&repo=whatsapp-rotator-shortcode&bg_color=0d1117&title_color=E56B10&icon_color=FF6E9C&text_color=9fb3c8&border_color=30363d&border_radius=10" alt="WhatsApp Rotator Shortcode" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hylal/wahanadigital-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hylal&repo=wahanadigital-portfolio&bg_color=0d1117&title_color=E56B10&icon_color=FF6E9C&text_color=9fb3c8&border_color=30363d&border_radius=10" alt="Wahana Digital Portfolio" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hylal/bmi_dialogflow_whatsapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hylal&repo=bmi_dialogflow_whatsapp&bg_color=0d1117&title_color=E56B10&icon_color=FF6E9C&text_color=9fb3c8&border_color=30363d&border_radius=10" alt="BMI Dialogflow WhatsApp" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🎨 HawaiColor
+
+Generator palet warna HEX yang membantu web designer dan developer menemukan kombinasi warna dengan lebih cepat.
+
+**Highlights:** Color generator · Web design utility · Simple interface
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-HawaiColor-E56B10?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hylal/hawaicolor)
 
 ---
 
-## 📊 GitHub Analytics
+### 💬 WhatsApp Rotator Shortcode
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hylal&show_icons=true&bg_color=0d1117&title_color=E56B10&icon_color=FF6E9C&text_color=9fb3c8&border_color=30363d&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</p>
+Solusi WordPress untuk membagi calon pelanggan ke beberapa admin WhatsApp secara bergantian.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hylal&layout=compact&bg_color=0d1117&title_color=E56B10&text_color=9fb3c8&border_color=30363d&border_radius=10" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=hylal&background=0d1117&border=30363d&ring=E56B10&fire=FF6E9C&currStreakLabel=E56B10&stroke=30363d&borderRadius=10" alt="GitHub Streak" />
-</p>
+**Highlights:** WordPress shortcode · Lead distribution · WhatsApp integration
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-WhatsApp%20Rotator-00A98F?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hylal/whatsapp-rotator-shortcode)
 
 ---
 
-## 📫 Connect With Me
+### 🌐 Wahana Digital Portfolio
 
-<p align="center">
-  <a href="https://wahanadigital.com">
-    <img src="https://img.shields.io/badge/Website-Wahana_Digital-E56B10?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://twitter.com/hilaludinwahid">
-    <img src="https://img.shields.io/badge/Twitter-@hilaludinwahid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/hylal">
-    <img src="https://img.shields.io/badge/GitHub-hylal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Website portfolio untuk menampilkan layanan, project, dan kapabilitas digital Wahana Digital.
+
+**Highlights:** Company profile · Responsive website · Portfolio showcase
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-Wahana%20Digital-845EC2?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hylal/wahanadigital-portfolio)
+
+---
+
+### 🤖 BMI Dialogflow WhatsApp
+
+Integrasi chatbot Dialogflow dengan WhatsApp untuk memberikan respons otomatis kepada pengguna.
+
+**Highlights:** Dialogflow · WhatsApp chatbot · Automated response
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-BMI%20Chatbot-FF6E9C?style=flat-square\&logo=github\&logoColor=white)](https://github.com/hylal/bmi_dialogflow_whatsapp)
+
+---
+
+## 🛠️ Tech Stack
+
+### Web Development
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square\&logo=astro\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+
+### Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square\&logo=googleanalytics\&logoColor=white)
+
+### Marketing & Platforms
+
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square\&logo=meta\&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square\&logo=googleads\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square\&logo=google\&logoColor=white)
+
+---
+
+## 🎨 Signature Palette
+
+Palet warna utama yang merepresentasikan karakter visual project saya.
+
+| Color |    HEX    | Character        |
+| :---: | :-------: | :--------------- |
+|   🟧  | `#E56B10` | Energetic Orange |
+|   🟪  | `#845EC2` | Creative Purple  |
+|   🩷  | `#FF6E9C` | Playful Pink     |
+|   🟩  | `#00C9A7` | Fresh Turquoise  |
+|   🟨  | `#FFC75F` | Warm Yellow      |
+
+---
+
+## 📌 Current Focus
+
+```text
+🌐 Building high-performance WordPress websites
+📈 Developing measurable digital marketing strategies
+🤖 Creating practical automation solutions
+🎨 Improving HawaiColor and other digital products
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+Saya terbuka untuk kolaborasi dalam bidang:
+
+* WordPress dan WooCommerce development
+* Digital marketing dan campaign strategy
+* Website atau landing page development
+* WhatsApp automation dan chatbot
+* SEO, analytics, dan conversion optimization
+* Pengembangan digital tools
+
+<div align="center">
+
+### Have an idea? Let's build something useful.
+
+[![Visit Website](https://img.shields.io/badge/Visit-WahanaDigital.com-E56B10?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://wahanadigital.com)
+[![Explore GitHub](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hylal?tab=repositories)
 
 <br>
 
-<p align="center">
-  <i>"Digital marketing + WordPress + kopi = hari yang sempurna." ☕💻</i>
-</p>
+> **“Digital marketing, WordPress, automation, and coffee—
+> the perfect combination for building something meaningful.”** ☕💻
+
+<br>
+
+© Hilaludin Wahid
+
+</div>
